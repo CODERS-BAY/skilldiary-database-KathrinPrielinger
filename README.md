@@ -42,29 +42,4 @@ Präsentationen der TN
 
 Hausübung: Datenmodellierung Library
 
-
-
-
-
-
-# Skill Diary Database Vöcklabruck
-## Informational Stuff
-The trainers of CODERS.BAY decided to let you write a documentation of what you have learned. 
-
-Please keep this as your diary and write a short summary with code snippets and some theoretical topics daily in the last half an hour of the day.
-
-Just to let you know this will be your personal reference book. 
-
-You are going to have three GIT Repositories where you document your progress of the course.
-
-In this Repository we are gonna collect all information of the database classes. 
-
-I'm going to give you all reviews in the form of issues every week, where I'm going to review your documentary by the following criteria:
-- code quality
-- quality of content 
-- totality of your documentation.
-
-As it is a personal documentation the styling and structure is up to your personal preferences.
-
-
-  
+https://onedrive.live.com/redir?resid=FC81D1DCBC894BA7%212354&page=Edit&wd=target%28DB.one%7C3313a073-596e-40fb-a7ac-06a70541cba6%2FDatabase%20Diary%7Cda18dad5-9d62-4905-9d2b-647eb35b58ce%2F%29&wdorigin=703
